@@ -1,0 +1,8 @@
+; $Id: logintoboggan_rules.info,v 1.2 2010/03/25 20:07:20 thehunmonkgroup Exp $
+
+name = "LoginToboggan Rules Integration"
+description = "Integrates LoginToboggan with Rules module"
+core = "6.x"
+
+dependencies[] = logintoboggan
+dependencies[] = rules
